@@ -1,0 +1,11 @@
+.container {
+	width: 100vw;
+	padding: 20px 0px 20px 60px;
+}
+
+.articlesContainer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 120px;
+}
